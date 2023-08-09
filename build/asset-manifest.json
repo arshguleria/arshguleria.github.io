@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.701c971d.css",
-    "main.js": "/personal-portfolio/static/js/main.e6f3aeb2.js",
-    "static/media/me.png": "/personal-portfolio/static/media/me.173f3ec7d3f1c49c6d1d.png",
-    "static/media/me-two.png": "/personal-portfolio/static/media/me-two.fb8afc5d78d9cf23299f.png",
-    "static/media/address.png": "/personal-portfolio/static/media/address.a01cb8cc428702f30bec.png",
-    "static/media/email.png": "/personal-portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
-    "static/media/sun.png": "/personal-portfolio/static/media/sun.f794832ad72b90c61eb7.png",
-    "static/media/phone.png": "/personal-portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
-    "static/media/moon.png": "/personal-portfolio/static/media/moon.3bea3d398a25611d421b.png",
-    "index.html": "/personal-portfolio/index.html",
-    "main.701c971d.css.map": "/personal-portfolio/static/css/main.701c971d.css.map",
-    "main.e6f3aeb2.js.map": "/personal-portfolio/static/js/main.e6f3aeb2.js.map"
+    "main.css": "/arshguleria.github.io/static/css/main.701c971d.css",
+    "main.js": "/arshguleria.github.io/static/js/main.3530ea37.js",
+    "static/media/me.png": "/arshguleria.github.io/static/media/me.173f3ec7d3f1c49c6d1d.png",
+    "static/media/me-two.png": "/arshguleria.github.io/static/media/me-two.fb8afc5d78d9cf23299f.png",
+    "static/media/address.png": "/arshguleria.github.io/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/arshguleria.github.io/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/arshguleria.github.io/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/arshguleria.github.io/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/arshguleria.github.io/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/arshguleria.github.io/index.html",
+    "main.701c971d.css.map": "/arshguleria.github.io/static/css/main.701c971d.css.map",
+    "main.3530ea37.js.map": "/arshguleria.github.io/static/js/main.3530ea37.js.map"
   },
   "entrypoints": [
     "static/css/main.701c971d.css",
-    "static/js/main.e6f3aeb2.js"
+    "static/js/main.3530ea37.js"
   ]
 }
