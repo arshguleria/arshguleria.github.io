@@ -101,3 +101,13 @@
   color: green;
   text-decoration: none;
 }
+
+.myButton {
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	font-family:Arial;
+	font-size:17px;
+	text-decoration:none;
+  color: #555;
+}

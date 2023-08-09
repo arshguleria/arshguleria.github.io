@@ -4,7 +4,21 @@ import Me from "../../img/me.png";
 const Intro = () => {
   return (
     <div className="i">
-      <div className="i-left">
+      <div className="i-left">  
+        <div className="icon-left">  
+            <a href="https://www.linkedin.com/in/arshguleria/" target="_blank">
+            <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="linkedin"/>
+            </a>
+
+            <a href="https://github.com/arsh-cogo" target="_blank">
+            <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
+            </a>
+
+            <a href="https://www.instagram.com/iarshguleria/?ig..." target="_blank">
+            <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram-new--v1"/>
+            </a>
+          </div>
+
         <div className="i-left-wrapper">
           <h2 className="i-intro">Hello, My name is</h2>
           <h1 className="i-name">Arsh Guleria</h1>

@@ -17,7 +17,7 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          Currently working as an SDE-I at <a className="company-link" href="https://www.cogoport.com">Cogoport</a>
+          Currently working as an SDE-I at <a className="company-link" target="_blank" href="https://www.cogoport.com">Cogoport</a>
         </p>
         <p className="a-desc">
         My journey began in the exciting realm of supply chain and logistics as an SDE in Cogoport, 
@@ -41,6 +41,11 @@ const About = () => {
          </p>
         </div>
 
+        <div className="a-award">
+        <p className="a-desc">
+        Here is my <a target="_blank" className="myButton" href="https://drive.google.com/file/d/1WT8wuX5oRB8LI2sp3pf0dQ-QQsf3LIZL/view?usp=sharing">Resume</a>
+         </p>
+        </div>
       </div>
     </div>
   );
